@@ -1,12 +1,3 @@
--   id: yapf
-    name: yapf
-    entry: yapf
-    language: python
-    'types': [python]
-    args: ["-i"]
-    require_serial: false
-    additional_dependencies: []
-    
 -   id: yapf-diff
     name: yapf-diff
     entry: yapf-diff
